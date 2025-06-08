@@ -4,6 +4,6 @@
 METHOD POST
 <img width="957" alt="Image" src="https://github.com/user-attachments/assets/d163112a-8138-4b54-854b-baa2a07d75ea" />
 USER YANG BARU DITAMBAHKAN "MONANG KEGELAPAN" DENGAN MENGGUNAKAN METHOD POST AKAN LANGSUNG DITAMBAHKAN DI DATABASE
-<img width="957" alt="Image" src="https://github.com/user-attachments/assets/f6ceb9e5-967a-40de-9701-ca3fa9ced3e1" />
+<img width="794" alt="Image" src="https://github.com/user-attachments/assets/024f0a98-b442-452c-84f5-497aac355c67" />
 
 
